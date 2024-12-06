@@ -1,0 +1,8 @@
+       scale="5 5 5"
+        position="50 150 0"
+
+
+
+    sperm 47,chromosome x 92, drosophila male 97, 
+    dino https://sketchfab.com/3d-models/dinosaur-38e1ae4d19cb417eb78a034ee7786e06  174
+    respiration 245, larynx 246, heart 267,
